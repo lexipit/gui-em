@@ -1,6 +1,6 @@
 const CONFIG = {
     introTitle: 'Gửi em!',
-    introDesc: `Hôm nay là một ngày thật đặc biệt, không chỉ đối với em là còn là với cả thế giới. Là ngày kỉ niệm sự ra đời của một thiên thần đáng yêu nhất cơ mà.`,
+    introDesc: `Hôm nay là một ngày thật đặc biệt, không chỉ đối với em là còn là với cả thế giới. Là ngày kỉ niệm sự ra đời của một thiên thần đáng yêu 🥰.`,
     btnIntro: 'hihi',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
