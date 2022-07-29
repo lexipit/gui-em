@@ -1,7 +1,7 @@
 const CONFIG = {
     introTitle: 'Gửi em!',
     introDesc: `Hôm nay là một ngày thật đặc biệt. Là ngày kỉ niệm sự ra đời của một thiên thần đáng yêu 🥰.`,
-    btnIntro: 'hihi',
+    btnIntro: 'hihihi',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
     btnYes: 'Vẫn cứ là thích anh <33',
