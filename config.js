@@ -10,7 +10,7 @@ const CONFIG = {
     btnReply: 'Gửi cho anh <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Chúc mừng sinh nhật, thế giới 44kg của anh <3. chúc em tuổi mới ăn mau chóng lớn, học giỏi, ngày càng damdang nhe  hehe 😙',
+    messDesc: 'Chúc mừng sinh nhật, thế giới 44kg của anh <3. chúc em tuổi mới ăn mau chóng lớn, học giỏi, ngày càng  nhe  hehe 😙',
     btnAccept: 'Dạ anh <3',
     messLink: 'http://m.me/lexipit3268' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
